@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1446582370 source:c:\users\cam\documents\efrei 2e année\sdd\jeu\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110988 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738640 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1446586134 source:c:\users\jerome\appdata\roaming\skype\my skype received files\nouveau dossier\jeu\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1446596921 source:c:\users\jerome\appdata\roaming\skype\my skype received files\nouveau dossier\jeu\sdl_init.cpp
+	"SDL_init.h"
+
+1446596921 c:\users\jerome\appdata\roaming\skype\my skype received files\nouveau dossier\jeu\sdl_init.h
+	<SDL/SDL.h>
+
+1446633288 source:c:\users\jerome\downloads\jeu\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"SDL_init.h"
+
+1446636297 c:\users\jerome\downloads\jeu\sdl_init.h
+	<SDL/SDL.h>
+
+1446596920 source:c:\users\jerome\downloads\jeu\sdl_init.cpp
+	"SDL_init.h"
+
+1446636231 source:c:\users\jerome\downloads\jeu\sdl_function.cpp
+	"SDL_function.h"
+
+1446636231 c:\users\jerome\downloads\jeu\sdl_function.h
+	"SDL_init.h"
+
+1447331787 source:c:\users\cam\documents\jeuv1\sdl_function.cpp
+	"SDL_function.h"
+
+1447795292 c:\users\cam\documents\jeuv1\sdl_function.h
+	"SDL_init.h"
+
+1446632866 c:\users\cam\documents\jeuv1\sdl_init.h
+	<SDL/SDL.h>
+
+1447270872 source:c:\users\cam\documents\jeuv1\sdl_init.cpp
+	"SDL_init.h"
+
+1447328160 source:c:\users\cam\documents\jeuv1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"SDL_function.h"
+
+1449750606 source:c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"niveau.h"
+
+1449338028 c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\sdl_function.h
+	"SDL_init.h"
+
+1449338028 c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\sdl_init.h
+	<SDL/SDL.h>
+
+1449338028 source:c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\sdl_init.cpp
+	"SDL_init.h"
+
+1449743402 source:c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\sdl_function.cpp
+	"SDL_function.h"
+
+1449332092 source:c:\users\mathieu\documents\developpement\jeuv1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"niveau.h"
+
+1449332267 c:\users\mathieu\documents\developpement\jeuv1\sdl_function.h
+	"SDL_init.h"
+
+1446632866 c:\users\mathieu\documents\developpement\jeuv1\sdl_init.h
+	<SDL/SDL.h>
+
+1449329716 source:c:\users\mathieu\documents\developpement\jeuv1\sdl_function.cpp
+	"SDL_function.h"
+
+1447270872 source:c:\users\mathieu\documents\developpement\jeuv1\sdl_init.cpp
+	"SDL_init.h"
+
+1449333082 c:\users\mathieu\documents\developpement\jeuv1\niveau.h
+	"SDL_function.h"
+
+1449333087 source:c:\users\mathieu\documents\developpement\jeuv1\niveau.cpp
+	"niveau.h"
+
+1449338028 c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\niveau.h
+	"SDL_function.h"
+
+1449751343 source:c:\users\cam\documents\efrei 2e année\sdd\projet sdd\jeuv1\niveau.cpp
+	"niveau.h"
+
+1449747006 source:c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"niveau.h"
+
+1449334428 c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\niveau.h
+	"SDL_function.h"
+
+1449334428 c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\sdl_function.h
+	"SDL_init.h"
+
+1449334428 c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\sdl_init.h
+	<SDL/SDL.h>
+
+1449747743 source:c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\niveau.cpp
+	"niveau.h"
+
+1449739802 source:c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\sdl_function.cpp
+	"SDL_function.h"
+
+1449334428 source:c:\users\cam\desktop\projets autres années\projet sdd\jeuv1\sdl_init.cpp
+	"SDL_init.h"
+
